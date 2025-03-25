@@ -1,1 +1,1 @@
-# TVT23SPL_R16_R-ntynen_Muraja_Digital_EQ
+# TVT23SPL_R18_Weather_station
