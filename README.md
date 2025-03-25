@@ -1,1 +1,1 @@
-# TVT23SPL_R18_Weather_station
+# TVT23SPL_R8_Weather_station
