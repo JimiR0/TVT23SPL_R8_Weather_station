@@ -43,7 +43,7 @@ Phase 6: Assembling the project and testing it for presentation
 ________________________________________
 ## Devices and Technology Used
 
-We used a variety of components in our project, which are listed in the “Components” section (linked elsewhere). In this section, we list the applications and devices that helped with the project:
+Here you can find the components, applications and devices that helped with the project:
 
 •	KiCad
 
@@ -62,6 +62,8 @@ We used a variety of components in our project, which are listed in the “Compo
 ![Näyttö](https://github.com/user-attachments/assets/608881ba-cb45-4370-a1b5-c231b9d39321)(KUVA 2. OLED-näyttö)
 
 ![BME280_sensor](https://github.com/user-attachments/assets/d8ad4e7e-9eda-4546-8613-d7412815376d)(KUVA 3. BME280 sensori)
+
+![Optohaarukka](https://github.com/user-attachments/assets/4597e9f4-9445-45e2-aad1-8a962a780e1a)(KUVA 4. TCST1103 Optohaarukka)
 
 ________________________________________
 ## Learning Experiences and Challenges
